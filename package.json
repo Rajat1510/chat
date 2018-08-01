@@ -2,6 +2,9 @@
   "name": "simple_chat",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "^10.7.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
